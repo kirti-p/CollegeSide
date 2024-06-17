@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    font-size:35px;
+    color: white;
+}
+header{
+    padding: 15px 0px;
+    background-color: #042331;
+    background-size: center;
+    }
+.accordion{
+    padding: 10px 200px;
+    padding-bottom: 20px;
+}    
+footer h6{
+    text-align: center;
+
+}
+footer{
+   margin: 0%;
+}
+#mail{
+    padding: 5px;
+}
